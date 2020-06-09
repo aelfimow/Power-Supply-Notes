@@ -1,0 +1,2 @@
+# PMIC
+Power Management IC
