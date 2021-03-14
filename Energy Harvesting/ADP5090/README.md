@@ -23,7 +23,7 @@ LFCSP, 16 Pins.
 ## Maximum Power Point Tracking, MPPT
 * Fractional Open Circuit Voltage (FOCV)
 
-## Spannungsasugänge
+## Spannungsausgänge
 * Ein ungeregelter Ausgang
 * V_out: 2V bis 5,2V
 * Max. P_out: 4W

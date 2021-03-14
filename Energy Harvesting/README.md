@@ -21,7 +21,7 @@
 * FOCV (Fractional Open Circuit Voltage)
 * Break Even Threshold: Schwelle zwischen dem Zustand des Ladens und des Entladens
 * LDO (Low Dropout) Regler
-* Separate Spannungsasugänge, konfigurierbar oder nicht
+* Separate Spannungsausgänge, konfigurierbar oder nicht
 * Wechselspannungseingang mit Gleichrichter
 * Backup-Element
 
