@@ -10,7 +10,7 @@
 * Thermoelektrische Generatoren
 * Seebeck Effekt
 
-## Eletrodynamischer Wandler
+## Elektrodynamischer Wandler
 
 # Funktionen und Merkmale
 * Energy-Harvesting-Technologie
